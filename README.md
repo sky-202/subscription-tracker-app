@@ -149,6 +149,3 @@ This app utilizes **Arcjet** middleware applied globally in `app.js`.
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## 📄 License
-
-This project is licensed under the MIT License.
